@@ -1,5 +1,4 @@
 import EditButton from "./Components/EditButton";
-
 function App() {
   return (
     <div className="h-dvh w-dvw flex justify-center items-center bg-slate-400 text-slate-800">
